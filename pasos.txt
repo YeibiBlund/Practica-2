@@ -4,9 +4,9 @@
 
 3- Clonar archivo desde Github --> Git clone https://github.com/YeibiBlund/Practica-1.git
 
-4- Añadir archivos nuevos --> Git add .pasos
+4- Añadir archivos nuevos --> Git add pasos.txt
 
-5-Guardar archivos nuevos --> Git commit - m ".pasos" 
+5-Guardar archivos nuevos --> Git commit - m "pasos.txt" 
 
 6- Subir archivos nuevos a remoto --> Git push 
 
