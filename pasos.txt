@@ -12,8 +12,10 @@
 
 7- Comprobar que los archivos en remoto coinciden
 
-8- Modificar archivos desde el remoto. 
+8- Modificar archivos desde el remoto.  Git add .pasos
 
-9- Descargarse los archivos en remoto --> git pull  (fetch origin)
+9- guardar archivos desde el remoto --> git commit - m ".pasos"
 
-10- Actualizar
+10- Descargarse los archivos en remoto --> git pull  (fetch origin)
+
+11- Actualizar
