@@ -1,0 +1,19 @@
+1- Crear repositorio en Github
+
+2- Abrir aplicacion Github Desktop
+
+3- Clonar archivo desde Github --> Git clone
+
+4- Añadir archivos nuevos ----> Git add - A 
+
+5-Guardar archivos nuevos ---> Git commit - m "Pasos a seguir" 
+
+6- Subir archivos nuevos a remoto --> Git push 
+
+7- Comprobar que los archivos en remoto coinciden
+
+8- Modificar archivos desde el remoto. 
+
+9- Descargarse los archivos en remoto --> git pull  (fetch origin)
+
+10- Actualizar
