@@ -4,9 +4,9 @@
 
 3- Clonar archivo desde Github --> Git clone https://github.com/YeibiBlund/Practica-1.git
 
-4- Añadir archivos nuevos ----> Git add .pasos
+4- Añadir archivos nuevos --> Git add .pasos
 
-5-Guardar archivos nuevos ---> Git commit - m ".pasos" 
+5-Guardar archivos nuevos --> Git commit - m ".pasos" 
 
 6- Subir archivos nuevos a remoto --> Git push 
 
@@ -16,6 +16,8 @@
 
 9- guardar archivos desde el remoto --> git commit - m ".pasos"
 
-10- Descargarse los archivos en remoto --> git pull  (fetch origin)
+10- hacer un git fetch para comprobar si los archivos son iguales
+
+10- Como hay cosas que no coinciden, me descargo los archivos en remoto --> git pull  
 
 11- Actualizar
