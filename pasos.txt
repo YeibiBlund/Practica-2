@@ -2,11 +2,11 @@
 
 2- Abrir aplicacion Github Desktop
 
-3- Clonar archivo desde Github --> Git clone
+3- Clonar archivo desde Github --> Git clone https://github.com/YeibiBlund/Practica-1.git
 
-4- Añadir archivos nuevos ----> Git add - A 
+4- Añadir archivos nuevos ----> Git add .pasos
 
-5-Guardar archivos nuevos ---> Git commit - m "Pasos a seguir" 
+5-Guardar archivos nuevos ---> Git commit - m ".pasos" 
 
 6- Subir archivos nuevos a remoto --> Git push 
 
